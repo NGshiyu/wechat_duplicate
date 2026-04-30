@@ -12,8 +12,8 @@
 
 # Documentation:
 # @raycast.description 克隆 WeChat 为 Wechat2 用于双开，并更换自定义图标
-# @raycast.author yangyangSheep
-# @raycast.authorURL https://raycast.com/yangyangSheep
+# @raycast.author NGshiyu
+# @raycast.authorURL https://raycast.com/NGshiyu
 
 # Step 0: 如果已存在 WeChat2.app，则删除
 try
